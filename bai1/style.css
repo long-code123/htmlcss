@@ -1,0 +1,33 @@
+.me{
+    display: flex;
+    justify-content: center;
+    color:#520e72;
+    font-size: 70px;
+}
+.a{
+    display: flex;
+    flex-direction: column;
+	align-items: center;
+    color:blue;
+    font-size: 30px;
+}
+.b{
+    display: flex;
+    flex-direction: column;
+	align-items: center;
+    color:red;
+    font-size: 30px;
+}
+.c{
+    display: flex;
+    flex-direction: column;
+	align-items: center;
+    color:green;
+    font-size: 30px;
+}
+.help{
+    font-size: 30px;
+}
+.blank{
+    color: blue;
+}
